@@ -42,7 +42,7 @@ spring:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:postgresql://localhost:5432/example
     username: example
-    password:
+    password: example
     hikari:
       poolName: Hikari
       auto-commit: false
